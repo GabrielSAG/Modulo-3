@@ -1,0 +1,118 @@
+ {
+"Fauna": [
+{
+    "nome": "lobo",
+    "especie": "canis-lupus",
+    "descrição": "Carnívoro-alcateia",
+    "ano": 15,
+    "tamanho": "1.30",
+    "id": 1
+},
+{
+  "nome": "Raposa",
+  "especie": "vulpes-vulpes",
+  "descrição": "Carnívoro-solitario",
+  "ano": 10,
+  "tamanho": "0.90",
+  "id": 2
+}, 
+{
+  "nome": "Homem",
+  "especie": "homo-sapiens",
+  "descrição": "Onívoro, polegar-opositor",
+  "ano": 100,
+  "tamanho": "2.00",
+  "id": 3
+}, 
+{
+  "nome": "Arara-Azul",
+  "especie": "Anodorhynchus-hyacinthinus",
+  "descrição": "Herbivoro-Voador",
+  "ano": 9,
+  "tamanho": "0.30",
+  "id": 1
+}
+],
+"Flora":[
+{
+  "nome": "Hera-Venenosa",
+  "especie": "Toxicodendron-Radicans",
+  "descrição": "Venenosa ao contato com a bele, por conta do Urushiol",
+  "ano": 100,
+  "id": 1
+},
+{
+  "nome": "Rosa",
+  "especie": "Rosarea-Trypuk",
+  "descrição": "Reprodução pela flor",
+  "ano": 60,
+  "id": 2
+},{
+  "nome": "Tumbo",
+  "especie": "Welwitschia mirabilis",
+  "descrição": "Se adapta a climas extremamente precários",
+  "ano": 3000,
+  "id": 3
+},{
+  "nome": "Primavera",
+  "especie": "Boungavillie",
+  "descrição": "Folhas modificadas que mudam de cor",
+  "ano": 40,
+  "id": 4
+}
+],
+"Fungi":[
+{
+  "nome": "Fungo Zumbi",
+  "especie": "Ophicordycpes-Lamia",
+  "descrição": "",
+  "id": 1
+},
+{
+  "nome": "Fungo do arroz",
+  "especie": "Ophicordycpes-Lamia",
+  "descrição": "",
+  "id": 2
+},
+{
+  "nome": "Filas",
+  "especie": "",
+  "descrição": "",
+  "id": 3
+},
+{
+  "nome": "Cogumelo",
+  "especie": "",
+  "descrição": "",
+  "id": 4
+}
+],
+"Elementos":[
+{
+  "nome": "Oxigenio",
+  "descrição": "Representado pelo (O)",
+  "numero(Z)": "Na direção do numero (8)",
+  "id": 1
+},
+{
+  "nome": "Cobre",
+  "descrição": "Representado pelo (Cu)",
+  "numero(Z)": "Na direção do numero (29)",
+  "id": 2
+},
+{
+  "nome": "Nitrogenio",
+  "descrição": "Representado pelo (N)",
+  "numero(Z)": "Na direção do numero (7)",
+  "id": 3
+},
+{
+  "nome": "Hidrogenio",
+  "descrição": "Representado pelo (H)",
+  "numero(Z)": "Na direção do numero (1)",
+  "id": 4
+}
+]
+
+}
+
