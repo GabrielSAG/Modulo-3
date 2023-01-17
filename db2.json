@@ -1,118 +1,136 @@
  {
-"Fauna": [
+"Cinema: Filmes de Terror": [
 {
-    "nome": "lobo",
-    "especie": "canis-lupus",
-    "descrição": "Carnívoro-alcateia",
-    "ano": 15,
-    "tamanho": "1.30",
+    "nome": "O Exorcista",
+    "ingresso": "R$ 14,50",
+    "descrição": "Possessão Demoníaca",
+    "ano": 1974,
+    "diretor": "William Friedkin",
     "id": 1
 },
 {
-  "nome": "Raposa",
-  "especie": "vulpes-vulpes",
-  "descrição": "Carnívoro-solitario",
-  "ano": 10,
-  "tamanho": "0.90",
+  "nome": "O Iluminado",
+  "ingresso": "R$ 20,00",
+  "descrição": "Jack se torna um maníaco-homicida",
+  "ano": 1980,
+  "diretor": "Stanley Kubrick",
   "id": 2
-}, 
-{
-  "nome": "Homem",
-  "especie": "homo-sapiens",
-  "descrição": "Onívoro, polegar-opositor",
-  "ano": 100,
-  "tamanho": "2.00",
-  "id": 3
-}, 
-{
-  "nome": "Arara-Azul",
-  "especie": "Anodorhynchus-hyacinthinus",
-  "descrição": "Herbivoro-Voador",
-  "ano": 9,
-  "tamanho": "0.30",
-  "id": 1
-}
-],
-"Flora":[
-{
-  "nome": "Hera-Venenosa",
-  "especie": "Toxicodendron-Radicans",
-  "descrição": "Venenosa ao contato com a bele, por conta do Urushiol",
-  "ano": 100,
-  "id": 1
 },
 {
-  "nome": "Rosa",
-  "especie": "Rosarea-Trypuk",
-  "descrição": "Reprodução pela flor",
-  "ano": 60,
-  "id": 2
-},{
-  "nome": "Tumbo",
-  "especie": "Welwitschia mirabilis",
-  "descrição": "Se adapta a climas extremamente precários",
-  "ano": 3000,
+  "nome": "Freddy vs Jason",
+  "ingresso": "R$ 10,30",
+  "descrição": "Jason e Freddy se enfretam",
+  "ano": 2003,
+  "diretor": "Ronny Yu",
   "id": 3
-},{
-  "nome": "Primavera",
-  "especie": "Boungavillie",
-  "descrição": "Folhas modificadas que mudam de cor",
-  "ano": 40,
+},
+{
+  "nome": "Chucky",
+  "ingresso": "R$ 16,80",
+  "descrição": "Boneco possuído por um serial-killer",
+  "ano": 1992,
+  "diretor": "Ronny Yu",
   "id": 4
 }
 ],
-"Fungi":[
-{
-  "nome": "Fungo Zumbi",
-  "especie": "Ophicordycpes-Lamia",
-  "descrição": "",
-  "id": 1
+"Cinema: Ficção":[
+  {
+    "nome": "Jurasic World",
+    "ingresso": "R$13,00",
+    "descrição": "A principal atração são os Dinossauros",
+    "ano": 2015,
+    "diretor": "Colin Trevorrow",
+    "id": 1
 },
 {
-  "nome": "Fungo do arroz",
-  "especie": "Ophicordycpes-Lamia",
-  "descrição": "",
+  "nome": "Duna",
+  "ingresso": "R$ 12,80",
+  "descrição": "Paul viaja para o planeta mas perigoso para ajudar seu povo",
+  "ano": 2021,
+  "diretor": "Denis Villeneuve",
   "id": 2
 },
 {
-  "nome": "Filas",
-  "especie": "",
-  "descrição": "",
+  "nome": "Injustice",
+  "ingresso": "R$ 12,50",
+  "descrição": "Depois de Lois ser morta Superman tem um novo objetivo",
+  "ano": 2013,
+  "diretor": "Matt Peters",
   "id": 3
 },
 {
-  "nome": "Cogumelo",
-  "especie": "",
-  "descrição": "",
+  "nome": "Avatar",
+  "ingresso": "R$ 30,50",
+  "descrição": "Um ex-militar acidentado subtitui seu irmão para o programa AVATAR",
+  "ano": 2009,
+  "diretor": "James Cameron",
   "id": 4
 }
 ],
-"Elementos":[
+"Cinema: Filmes de Comédia":[
 {
-  "nome": "Oxigenio",
-  "descrição": "Representado pelo (O)",
-  "numero(Z)": "Na direção do numero (8)",
+  "nome": "O Elo Perdido",
+  "ingresso": "R$ 18,50",
+  "descrição": "Uma viajam divertida no passado",
+  "ano": 2009,
+  "diretor": "Brad Silberling",
   "id": 1
 },
 {
-  "nome": "Cobre",
-  "descrição": "Representado pelo (Cu)",
-  "numero(Z)": "Na direção do numero (29)",
+  "nome": "Gente Grande",
+  "ingresso": "R$ 14,50",
+  "descrição": "Para esses caras crescer não significa nada",
+  "ano": 2010,
+  "diretor": "Dennis Dugan",
   "id": 2
 },
 {
-  "nome": "Nitrogenio",
-  "descrição": "Representado pelo (N)",
-  "numero(Z)": "Na direção do numero (7)",
+  "nome": "Todo Mundo em Pânico",
+  "ingresso": "R$ 14,50",
+  "descrição": "Você vera de tudo nessa iconica obra",
+  "ano": 2000,
+  "diretor": "Keenen Ivory Wayans",
   "id": 3
 },
 {
-  "nome": "Hidrogenio",
-  "descrição": "Representado pelo (H)",
-  "numero(Z)": "Na direção do numero (1)",
+  "nome": "Os Vampiros que Se Mordam",
+  "ingresso": "R$ 13,10",
+  "descrição": "Uma paròdia cômica de Crepúsculo ",
+  "ano": 2010,
+  "diretor": "Jason Friedberg/Aaron Seltzer",
   "id": 4
 }
-]
-
-}
-
+],
+"Cinema: Filmes de Aventura":[
+  {
+    "nome": "Esquadrão Suicida",
+    "ingresso": "R$ 9,90",
+    "descrição": "Os corrompidos vilões vão para uma missão quase suicida",
+    "ano": 2016,
+    "diretor": "David Ayer",
+    "id": 1
+  },
+  {
+    "nome": "O lar das Crianças Peculiares",
+    "ingresso": "R$ 10,20",
+    "descrição": "Jacob descobre algo extraordinario do passado de seu avô",
+    "ano": 2016,
+    "diretor": "Tim Burton",
+    "id": 2
+  },
+  {
+    "nome": "Aquaman",
+    "ingresso": "R$ 11,80",
+    "descrição": "Arthur vai a procura de sua mãe e reivindicar o trono de Atlânta",
+    "ano": 2018,
+    "diretor": "James Wan",
+    "id": 3
+  },
+  {
+    "nome": "No Coração do Mar",
+    "ingresso": "R$ 15,00",
+    "descrição": "Baseado no livro Moby Dick, uma dramatica aventura em alto mar",
+    "ano": 2015,
+    "diretor": "Ron Howard",
+    "id": 4
+  }]}
